@@ -9,34 +9,34 @@
 **--This is package for enabling basic ML algos--**
 
 Unsupervised 
-    - Kmeans
-    - Kmedoids
-    - Clustering Performance (Silhouette Score)
-    - Hierarchical Clustering
-        - Agglomerative
-        - Divisive
-    - DBSCAN
-    - PCA
-    - Auto Encoders
-    - t-Distributed Stochastic Neighbor Embedding (t-SNE)
-    - Topic Modeling
-    - Latent Dirichlet Allocation
-    - Market Basket Analysis (MBA)
-        - Apriori
-        - FP Tree
-    - Hotspot Analysis
-    - Kernel Density Estimation (KDE)
+  - Kmeans
+  - Kmedoids
+  - Clustering Performance (Silhouette Score)
+  - Hierarchical Clustering
+     - Agglomerative
+     - Divisive
+  - DBSCAN
+  - PCA
+  - Auto Encoders
+  - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+  - Topic Modeling
+  - Latent Dirichlet Allocation
+  - Market Basket Analysis (MBA)
+     - Apriori
+     - FP Tree
+  - Hotspot Analysis
+  - Kernel Density Estimation (KDE)
 
 
 Supervised
-    - Linear Regression
-    - Polynomial Regression
-    - Mutivariate Regression
-    - Logistic Regression
-    - SVD
-    - Decision Tree
-    - Random Forest
-    - Bayesian 
+  - Linear Regression
+  - Polynomial Regression
+  - Mutivariate Regression
+  - Logistic Regression
+  - SVD
+  - Decision Tree
+  - Random Forest
+  - Naive Bayes 
 
 
 
